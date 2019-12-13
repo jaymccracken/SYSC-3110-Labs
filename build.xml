@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<project name = "AddressBook" default = "packaging">
+	<target name = "packaging">
+		<jar destfile = "Addressbook.jar">
+			<fileset dir = "bin"/>
+			<fileset dir = "src"/>
+			<manifest>
+				<attribute name="Main-Class" value="Frame" />
+			</manifest>
+		</jar>
+	</target>
+</project>

@@ -1,0 +1,7 @@
+<AddressBook> 
+	 <BuddyInfo> 
+		 <Name>J</Name>
+ 		 <Age>20</Age> 
+		 <PhoneNumber>905</PhoneNumber> 
+	 </BuddyInfo> 
+</AddressBook> 
